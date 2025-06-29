@@ -1,4 +1,4 @@
-![17512044817371044720860722784313](https://github.com/user-attachments/assets/375ee87f-c5a0-47ec-aedc-f4f056eddaf9)# Codetech-task-1COMPANY: CODTECH IT SOLUTIONS
+# Codetech-task-1COMPANY: CODTECH IT SOLUTIONS
 
 NAME: KANDHI AKHIL
 
